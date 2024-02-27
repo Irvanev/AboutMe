@@ -34,6 +34,12 @@
 
 Ссылка на проект: [CarService](https://github.com/Irvanev/WebApp)
 
+### WebSite с сипользованием React.js
+
+Написание полноценнго сайта с использованием HTML, CSS, Javascript, React.js, работа с Firebase.
+
+Ссылка на проект: [Site](https://github.com/Irvanev/Hvala)
+
 
 ## 🔗 Ссылки
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Irvanev?tab=overview&from=2024-01-01&to=2024-01-31)
